@@ -41,7 +41,7 @@ No permission is used for advertising, analytics, or any purpose beyond the core
 
 ## 4. Third-Party Integrations
 
-WalkYourTime does **not** currently integrate with any third-party health or fitness platform. Future versions may offer optional integration with services such as Google Health Connect, Huawei Health, or Garmin Connect.
+WalkYourTime does **not** currently integrate with any third-party health or fitness platform. Future versions may offer optional integration with third-party health and fitness services.
 
 If and when such integrations are added:
 - They will be strictly **opt-in**.
