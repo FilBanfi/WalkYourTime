@@ -33,8 +33,6 @@ WalkYourTime converts your daily steps into screen time minutes. Once your earne
 
 ## Screenshots
 
-## Screenshots
-
 | | | |
 |:---:|:---:|:---:|
 | <img src="https://play-lh.googleusercontent.com/7OLxNfRrg6gVY2lazGanjpr-wSfovKpV15tOMpeF_D6_5IkLRufHoDq2mS3aBf36apI2UyAtlcewychqj9OEbw=w2560-h1440-rw" width="220"/> | <img src="https://play-lh.googleusercontent.com/3nmQ_epsWvboLalarLGIrQmcm7HgiD3oTzWugfk3k95Mx-kEwhVhb8rc6X53S3HppD8wUSmMmY-h1u1lal_2B2Y=w2560-h1440-rw" width="220"/> | <img src="https://play-lh.googleusercontent.com/p-13sbNMs4enhHFtxVtG-iTPLW7jW_N1rS16Gim7t_2fEIZ4k9D9xMw6tJ58v3UVE6wMSuSuURCqu_JbDq3gKA=w2560-h1440-rw" width="220"/> |
