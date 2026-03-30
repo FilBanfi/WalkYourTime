@@ -33,10 +33,12 @@ WalkYourTime converts your daily steps into screen time minutes. Once your earne
 
 ## Screenshots
 
-<!-- Add screenshots once available -->
-<!-- ![Home](screenshots/home.png) -->
-<!-- ![Blocked](screenshots/blocked.png) -->
-<!-- ![Onboarding](screenshots/onboarding.png) -->
+## Screenshots
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://play-lh.googleusercontent.com/7OLxNfRrg6gVY2lazGanjpr-wSfovKpV15tOMpeF_D6_5IkLRufHoDq2mS3aBf36apI2UyAtlcewychqj9OEbw=w2560-h1440-rw" width="220"/> | <img src="https://play-lh.googleusercontent.com/3nmQ_epsWvboLalarLGIrQmcm7HgiD3oTzWugfk3k95Mx-kEwhVhb8rc6X53S3HppD8wUSmMmY-h1u1lal_2B2Y=w2560-h1440-rw" width="220"/> | <img src="https://play-lh.googleusercontent.com/p-13sbNMs4enhHFtxVtG-iTPLW7jW_N1rS16Gim7t_2fEIZ4k9D9xMw6tJ58v3UVE6wMSuSuURCqu_JbDq3gKA=w2560-h1440-rw" width="220"/> |
+| <img src="https://play-lh.googleusercontent.com/HDe8mgFcgvGV6LD_SaG1hL37SDB1NVNdMZoav4Y3Jvk6HJi3-89_3PDC8DZ1y8s08mzH5PlT-V89o2d3tc73SA=w2560-h1440-rw" width="220"/> | <img src="https://play-lh.googleusercontent.com/MDTWLtaDV9leEJs8Yhuh0QVYByRYRfKTln842BxFlPrnRZzRPrFlJdu6RFFSkdv_CRvEd10XJtBD0ISTdjqJwQ=w2560-h1440-rw" width="220"/> | <img src="https://play-lh.googleusercontent.com/aF1LavaWmcEFhYQ2d3jVoNk6qZ4dSezbVtqUQkkUAoppg1ZF_5oW5wjZCfYioQnSrt4nN5BikmAk4JJoZJOY=w2560-h1440-rw" width="220"/> |
 
 ---
 
