@@ -8,17 +8,19 @@ WalkYourTime converts your daily steps into screen time minutes. Once your earne
 
 ## Download
 
+![Version](https://img.shields.io/badge/version-1.0%20Antilope-blue)
+![License](https://img.shields.io/badge/license-GPL%20v3-green)
+![Min SDK](https://img.shields.io/badge/minSdk-26-orange)
+![Platform](https://img.shields.io/badge/platform-Android-brightgreen)
+
 [Google Play Store](https://play.google.com/store/apps/details?id=com.filbanfi.walkyourtime)
+<br>
+[GitHub](https://github.com/FilBanfi/WalkYourTime/releases/latest)
 
 <!-- [Samsung Galaxy Store]() -->
 <!-- [Amazon Appstore]() -->
 <!-- [F-Droid]() -->
 <!-- [APK (latest release)](https://github.com/FilBanfi/WalkYourTime/releases/latest) -->
-
-![Version](https://img.shields.io/badge/version-1.0%20Antilope-blue)
-![License](https://img.shields.io/badge/license-GPL%20v3-green)
-![Min SDK](https://img.shields.io/badge/minSdk-26-orange)
-![Platform](https://img.shields.io/badge/platform-Android-brightgreen)
 
 ---
 
