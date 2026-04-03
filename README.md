@@ -68,6 +68,8 @@ WalkYourTime converts your daily steps into screen time minutes. Once your earne
 | 🔜 Future | Huawei Health integration |
 | 🔜 Future | Room database (replacing SharedPreferences) |
 | 🔜 Future | Home screen widget |
+| 🔜 Future | Dynamic notification and Now Bar support |
+
 
 ---
 
