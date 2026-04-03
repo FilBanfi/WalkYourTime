@@ -2,7 +2,7 @@
 
 **Walk to earn your screen time.**
 
-WalkYourTime converts your daily steps into screen time minutes. Once your earned time runs out, the apps you choose get blocked — until you walk more. No account, no server, no tracking. Everything stays on your device.
+WalkYourTime converts your daily steps into screen time minutes. Once your earned time runs out, the apps you choose get blocked, until you walk more. No account, no server, no tracking. Everything stays on your device.
 
 ---
 
@@ -46,7 +46,7 @@ WalkYourTime converts your daily steps into screen time minutes. Once your earne
 
 - Step-to-screen-time conversion with customizable ratio
 - App blocking via Accessibility Service
-- Monet dynamic theming — 8 color seeds × light/dark (Material You, API 31+)
+- Monet dynamic theming: unlimited color seeds × light/dark (only on API 31+ or Android 12+)
 - 30+ language localizations
 - Fully offline and privacy-first — no account, no network calls
 - Foreground step counter service with battery optimization exemption
@@ -145,7 +145,7 @@ WalkYourTime/
 
 ## Contributing
 
-Contributions are welcome. Before opening a pull request, please open an issue first to discuss what you want to change — especially for features, as the roadmap is actively managed.
+Contributions are welcome. Before opening a pull request, please open an issue first to discuss what you want to change, especially for features, as the roadmap is actively managed.
 
 Bug fixes and localization improvements are always appreciated.
 
