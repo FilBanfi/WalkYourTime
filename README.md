@@ -6,6 +6,15 @@ WalkYourTime converts your daily steps into screen time minutes. Once your earne
 
 ---
 
+# TODO: (VER 1.X)
+- FIX ONBOARDING WITH AUTO CONTINUE WHEN YOU GIVE THE PERMISSION
+- FIX SETTINGS' BUTTON UI (WHAT IS WYT AND SUPPORT WYT) WITH M3E
+- IMPLEMENT BETTER MICRO-ANIMATION ALL ACROSS THE APP
+- IMPLEMENT OFFICIAL DYNAMIC NOTIFICATION AND NOW BAR SUPPORT
+- CREDIT SCREEN
+
+---
+
 ## Download
 
 ![Version](https://img.shields.io/badge/version-1.0%20Antilope-blue)
@@ -66,7 +75,6 @@ WalkYourTime converts your daily steps into screen time minutes. Once your earne
 | 🔜 Future | Health Connect integration |
 | 🔜 Future | Garmin Connect integration |
 | 🔜 Future | Huawei Health integration |
-| 🔜 Future | Room database (replacing SharedPreferences) |
 | 🔜 Future | Home screen widget |
 | 🔜 Future | Dynamic notification and Now Bar support |
 
