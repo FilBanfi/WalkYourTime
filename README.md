@@ -1,17 +1,8 @@
-# 🦌 WalkYourTime
+# 🐃 WalkYourTime
 
 **Walk to earn your screen time.**
 
 WalkYourTime converts your daily steps into screen time minutes. Once your earned time runs out, the apps you choose get blocked, until you walk more. No account, no server, no tracking. Everything stays on your device.
-
----
-
-# TODO: (VER 1.X)
-- FIX ONBOARDING WITH AUTO CONTINUE WHEN YOU GIVE THE PERMISSION
-- FIX SETTINGS' BUTTON UI (WHAT IS WYT AND SUPPORT WYT) WITH M3E
-- IMPLEMENT BETTER MICRO-ANIMATION ALL ACROSS THE APP
-- IMPLEMENT OFFICIAL DYNAMIC NOTIFICATION AND NOW BAR SUPPORT
-- CREDIT SCREEN
 
 ---
 
@@ -62,25 +53,6 @@ WalkYourTime converts your daily steps into screen time minutes. Once your earne
 
 ---
 
-## Roadmap
-
-| Status | Feature |
-|---|---|
-| ✅ 1.0 | Core step counting and app blocking |
-| ✅ 1.0 | Monet theming, 30+ localizations |
-| ✅ 1.0 | Onboarding flow |
-| 🔜 1.1 | Onboarding screens refinement |
-| 🔜 1.1 | Dynamic system app exclusion list for blocking |
-| 🔜 1.1 | Credits screen |
-| 🔜 Future | Health Connect integration |
-| 🔜 Future | Garmin Connect integration |
-| 🔜 Future | Huawei Health integration |
-| 🔜 Future | Home screen widget |
-| 🔜 Future | Dynamic notification and Now Bar support |
-
-
----
-
 ## Building from source
 
 1. Download the source ZIP from the [latest release](https://github.com/FilBanfi/WalkYourTime/releases/latest)
@@ -93,65 +65,6 @@ No additional setup required — there are no API keys, no external services, no
 
 ---
 
-## Project structure
-
-```
-WalkYourTime/
-├── app/
-│   └── src/main/
-│       ├── AndroidManifest.xml
-│       ├── ic_launcher-playstore.png
-│       ├── java/com/filbanfi/walkyourtime/
-│       │   ├── App.kt
-│       │   ├── BlockedActivity.kt
-│       │   ├── MainActivity.kt
-│       │   ├── NotificationActionReceiver.kt
-│       │   ├── OnboardingActivity.kt
-│       │   ├── PrefsKeys.kt
-│       │   ├── ScreenTimeAccessibilityService.kt
-│       │   ├── SettingsActivity.kt
-│       │   ├── StepCounterService.kt
-│       │   └── ui/
-│       │       ├── blocked/
-│       │       │   └── BlockedScreen.kt
-│       │       ├── main/
-│       │       │   └── WalkYourTimeScreen.kt
-│       │       ├── onboarding/
-│       │       │   ├── OnboardingRouter.kt
-│       │       │   └── OnboardingScreens.kt
-│       │       ├── settings/
-│       │       │   └── SettingsScreen.kt
-│       │       └── theme/
-│       │           ├── Theme.kt
-│       │           └── Type.kt
-│       └── res/
-│           ├── drawable/
-│           │   ├── blocked_hero.xml
-│           │   ├── main_hero.xml
-│           │   ├── onboarding_accessibility_hero.xml
-│           │   ├── onboarding_battery_hero.xml
-│           │   ├── onboarding_notification_hero.xml
-│           │   ├── onboarding_privacy_hero.xml
-│           │   ├── onboarding_ready_hero.xml
-│           │   ├── onboarding_steps_hero.xml
-│           │   ├── onboarding_welcome_hero.xml
-│           │   └── ic_launcher_foreground.xml
-│           ├── font/
-│           │   └── google_sans_flex.ttf
-│           ├── mipmap-*/           # Launcher icons (all densities)
-│           ├── values/
-│           │   ├── ic_launcher_background.xml
-│           │   ├── strings.xml
-│           │   └── themes.xml
-│           ├── values-*/           # 30+ locale string files
-│           └── xml/
-│               └── accessibility_service_config.xml
-├── PRIVACY.md
-├── LICENSE
-└── README.md
-```
-
----
 
 ## Contributing
 
